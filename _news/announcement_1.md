@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Funding] Our proposal for the A-STEP (Stage I) grant was accepted.
