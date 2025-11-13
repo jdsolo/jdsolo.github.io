@@ -378,13 +378,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-funding-my-proposal-for-kakenhi-basic-research-c-grant-was-accepted",
+          title: '[Funding] My proposal for KAKENHI Basic Research C grant was accepted.',
           description: "",
           section: "News",},{id: "news-funding-our-proposal-for-the-a-step-stage-i-grant-was-accepted",
           title: '[Funding] Our proposal for the A-STEP (Stage I) grant was accepted.',
