@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 ---
 
 My research background covers time-dependent behavior of polymeric materials and composites, with a focus on the interaction of various physical and chemical phenomena. As a research scientist at NIMS, I develop polymers and composites for sustainable and multifunctional structures, investigating their degradation behavior and how it relates to recycling and material design.
