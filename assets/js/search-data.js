@@ -378,11 +378,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-funding-my-proposal-for-kakenhi-basic-research-c-grant-was-accepted",
+      },{id: "news-funding-my-proposal-for-kakenhi-basic-research-c-grant-was-accepted",
           title: '[Funding] My proposal for KAKENHI Basic Research C grant was accepted.',
+          description: "",
+          section: "News",},{id: "news-paper-our-paper-on-nylon-recycling-was-accepted-in-angewandte-chemie",
+          title: '[Paper] Our paper on nylon recycling was accepted in Angewandte Chemie.',
           description: "",
           section: "News",},{id: "news-funding-our-proposal-for-the-a-step-stage-i-grant-was-accepted",
           title: '[Funding] Our proposal for the A-STEP (Stage I) grant was accepted.',
