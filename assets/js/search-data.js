@@ -378,7 +378,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-funding-my-proposal-for-kakenhi-basic-research-c-grant-was-accepted",
+      },{id: "news-nims-i-was-promoted-to-senior-researcher-at-nims",
+          title: '[NIMS] I was promoted to Senior Researcher at NIMS.',
+          description: "",
+          section: "News",},{id: "news-funding-my-proposal-for-kakenhi-basic-research-c-grant-was-accepted",
           title: '[Funding] My proposal for KAKENHI Basic Research C grant was accepted.',
           description: "",
           section: "News",},{id: "news-paper-our-paper-on-nylon-recycling-was-accepted-in-angewandte-chemie",
