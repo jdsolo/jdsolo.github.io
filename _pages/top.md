@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 15 # leave blank to include all the news in the `_news` folder
 ---
-
+## Welcome! I'm Jonathon
 My research background covers time-dependent behavior of polymeric materials and composites, with a focus on the interaction of various physical and chemical phenomena. As a research scientist at NIMS, I develop polymers and composites for sustainable and multifunctional structures, investigating their degradation behavior and how it relates to recycling and material design.
 
-<p>_Background_</p>
+## Background
 I started out wanting to be an architect in high school and transitioning to structural engineering in undergrad...which made me realize I found the fundamental mechanical behavior of materials more interesting than the buildings and bridges that contain them.
 From there, I turned my focus toward the influence of environmental exposure on the mechanical behavior and reliability of composites as part of my master's thesis, which sparked an interest in degradation phenomena.
 
