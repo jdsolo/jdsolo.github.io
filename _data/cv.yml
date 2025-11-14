@@ -1,4 +1,4 @@
-- title: General Information
+- title: About Me
   type: map
   contents:
     - name: Full Name
@@ -69,4 +69,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Drums, Football (soccer), Cycling, Weightlifting
