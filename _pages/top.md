@@ -2,11 +2,11 @@
 layout: top
 title: top
 permalink: /
-subtitle: Who says sustainable materials have to be low-performance, or that high-performance materials can't be sustainable? Let's change that.
+subtitle: *Who says sustainable materials have to be low-performance, or that high-performance materials can't be sustainable? Let's change that!*
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Website-profilepic.pdf
   # image_circular: true # crops the image to make it circular
   more_info: >
     <p>Senior Researcher</p>
