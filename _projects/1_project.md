@@ -2,7 +2,7 @@
 layout: page
 title: A-STEP (Stage I)
 description: Development of Highly-Functional Polymers and Nanocomposites for Next-Generation Devices and Structures
-img: assets/img/Website-ASTEP1.png
+img: assets/img/Website-ASTEP1(b).png
 importance: 1
 category: Principal Investigator
 related_publications: false
