@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: JONATHON TANKS
+title: JT
 first_name: Jonathon
 middle_name:
 last_name: Tanks
@@ -253,10 +253,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tanks]
+  first_name: [Jonathon, J.]
 
-  style: acs
+  style: apa
   locale: en
 
   source: /_bibliography/
