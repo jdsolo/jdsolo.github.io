@@ -8,10 +8,11 @@ category: Principal Investigator
 related_publications: false
 ---
 
-PI: J. Tanks, NIMS
-Co-PI: Y. Arao, Waseda University
+<p>PI: J. Tanks, NIMS</p>
+<p>Co-PI: Y. Arao, Waseda University</p>
+<p>Period: 2025/10 - 2028/3</p>
 The objective of this project is to develop novel epoxy-based thermally conductive polymers and their nanocomposites through a unique combination of copolymer design and processing techniques. Thermal, dielectric, and mechanical properties will be evaluated over a wide range of structures and compositions to construct a property "map", which can then be used by industry to identify candidates for new R&D areas.
-Stay tuned for more!
+Stay tuned for more updates!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
