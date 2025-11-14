@@ -396,9 +396,9 @@ ninja.data = [{
           section: "News",},{id: "news-funding-our-proposal-for-the-a-step-stage-i-grant-was-accepted",
           title: '[Funding] Our proposal for the A-STEP (Stage I) grant was accepted.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-a-step-stage-i",
+          title: 'A-STEP (Stage I)',
+          description: "Development of Highly-Functional Polymers and Nanocomposites for Next-Generation Devices and Structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
