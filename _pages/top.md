@@ -6,7 +6,7 @@ subtitle: Who says sustainable materials have to be low-performance, or that hig
 
 profile:
   align: right
-  image: Website-profilepic.png
+  image: Website-profilepic.pdf
   # image_circular: true # crops the image to make it circular
   more_info: >
     <p>Senior Researcher</p>
