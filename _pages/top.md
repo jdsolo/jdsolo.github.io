@@ -6,7 +6,7 @@ subtitle: Who says sustainable materials have to be low-performance, or that hig
 
 profile:
   align: right
-  image: Website-profilepic.png
+  image: Websiteprofilepic.png
   # image_circular: true # crops the image to make it circular
   more_info: >
     <p>Senior Researcher</p>
@@ -26,7 +26,7 @@ My research background covers time-dependent behavior of polymeric materials and
 
 
 
-
+_Background_
 I started out wanting to be an architect in high school and transitioning to structural engineering in undergrad...which made me realize I found the fundamental mechanical behavior of materials more interesting than the buildings and bridges that contain them.
 From there, I turned my focus toward the influence of environmental exposure on the mechanical behavior and reliability of composites as part of my master's thesis, which sparked an interest in degradation phenomena.
 
