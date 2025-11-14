@@ -27,13 +27,13 @@
       institution: National Institute for Materials Science (NIMS), Japan
       year: 2024 - present
       description:
-        - Description 1.
+        - Research focus is primarily (1) development of sustainable and functional polymeric composites, (2) recycling approaches for polymeric materials, and (3) degradation behavior of polymers.
         
     - title: Researcher
       institution: National Institute for Materials Science (NIMS), Japan
       year: 2019 - 2024
       description:
-        - Description 1.
+        - Research activity mainly focused on practical aspects of composites for structural applications, including durability evaluation of thermoplastic composites.
 
     - title: Research Associate
       institution: Virginia Transportation Research Council, VA
@@ -51,20 +51,20 @@
   contents:
     - title: Degradation of Polymers and Composites
       items:
-        - Description 1.
-        - Description 2.
+        - Transport phenomena in crosslinked resins (e.g., acid, ions).
+        - Oxidative degradation kinetics in linear polymers considering the effect of mechanical stress.
     - title: Recycling of Polymers and Composites
       items:
-        - Description 1.
-        - Description 2.
+        - Dissolution mechanisms and kinetics of polymers in solution.
+        - Approaches to efficient separation/recovery of end-of-life multi-phase materials.
     - title: Development of Sustainable Polymers and Composites
       items:
-        - Description 1.
-        - Description 2.
+        - Utilization of biomass (e.g., lignin, cellulose, small molecules) in high-performance composites.
+        - Structural control through noncovalent interactions between phases and processing conditions.
     - title: Development of Functional Polymers and Composites
       items:
-        - Description 1.
-        - Description 2.
+        - Novel thermally conductive thermoplastic epoxy-based polymers with highly crystalline structure.
+        - Hybrid and multi-layered nanocomposites (i.e., organic/inorganic) for improved dielectric or thermal properties.
 
 - title: Other Interests
   type: list
