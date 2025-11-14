@@ -1,25 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: A-STEP (Stage I)
+description: Development of Highly-Functional Polymers and Nanocomposites for Next-Generation Devices and Structures
+img: assets/img/Website-ASTEP1.png
 importance: 1
-category: work
-related_publications: true
+category: Principal Investigator
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+PI: J. Tanks, NIMS
+Co-PI: Y. Arao, Waseda University
+The objective of this project is to develop novel epoxy-based thermally conductive polymers and their nanocomposites through a unique combination of copolymer design and processing techniques. Thermal, dielectric, and mechanical properties will be evaluated over a wide range of structures and compositions to construct a property "map", which can then be used by industry to identify candidates for new R&D areas.
+Stay tuned for more!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
