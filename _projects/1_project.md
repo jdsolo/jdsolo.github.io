@@ -24,4 +24,4 @@ Stay tuned for more updates!
     Overview of our A-STEP research project.
 </div>
 
-For more information, see: https://www.jst.go.jp/a-step/outline/index.html
+See <a href="https://www.jst.go.jp/a-step/outline/index.html">here</a> for more information about this project/program.
