@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-collabs",
           title: "collabs",
-          description: "collaborators",
+          description: "Here are a few stellar researchers I am honored to collaborate with closely/often",
           section: "Navigation",
           handler: () => {
             window.location.href = "/collabs/";
