@@ -23,7 +23,7 @@ announcements:
 ---
 ## Research Interests
 My research strategy is to combine experiment and theory—at multiple length and time scales—to probe and explain processing-structure-property relationships in polymeric and nanomaterials at the interface of chemistry and physics and to use those findings to develop high-performance and multifunctional materials and end-of-life recycling/reuse technology. As a research scientist at NIMS, I develop polymers and composites for sustainable and multifunctional structures, investigating their degradation behavior and how it relates to recycling and material design. My main research areas with examples of recent activity are summarized below.
-- Creation of sustainable polymers/composites for high-performance and functional applications (biomass/plastic blends, hybrid fibers, CO<sub>2 utilization).
+- Creation of sustainable polymers/composites for high-performance and functional applications (biomass/plastic blends, hybrid fibers, CO<sub>2</sub> utilization).
 - Development of processes for resource recovery and utilization by leveraging solvent mixtures (commodity plastics/fibers, batteries, biomass, graphite).
 - Structural control via molecular design and processing conditions to enhance functionality and recyclability in polymeric materials (crystal orientation, reversible bonding).
 
