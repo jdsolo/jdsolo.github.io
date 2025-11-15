@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here's an overview of my ongoing projects. Contact me if you are interested in collaborating!
 nav: true
 nav_order: 3
 display_categories: [Principal Investigator, Co-Principal Investigator]
