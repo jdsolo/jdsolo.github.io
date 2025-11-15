@@ -1,24 +1,18 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: KAKENHI Grant-in-Aid for Scientific Research B
+description: Multiscale Analysis of Clay Nanosheet/Polymer Interfacial Interactions and Elucidation of Thermo-oxidative Degradation Mechanisms
+img: assets/img/Website-KakenhiB(T).png
 importance: 3
-category: fun
+category: Co-Principal Investigator
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p>PI: K. Tamura, NIMS</p>
+<p>Co-PI: J. Tanks, NIMS; H. Sakuma, NIMS; K. Morimoto, AIST</p>
+<p>Period: 2025/4 - 2028/3</p>
+The objective of this project is to understand how the surface chemistry of inorganic nanosheets influences the formation of the polymer structure at the interface, and how this ultimately affects thermo-oxidative degradation behavior. Since interfacial debonding is one of the most fundamental failure modes--and thus, loss in performance--in composites, it is essential to improve interfacial interaction. We will apply various diffraction, scattering, and spectroscopic techniques to analyze the polymer/nanosheet interfacial structure and elucidate the thermo-oxidation mechanisms for different cases.
+Stay tuned for more updates!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
