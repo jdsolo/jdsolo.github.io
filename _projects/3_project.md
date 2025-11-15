@@ -5,6 +5,7 @@ description: Unprecedented Strengthening of Fiber-Reinforced Composites Enabled 
 img: assets/img/Website-KakenhiB(A)1.png
 importance: 3
 category: Co-Principal Investigator
+related_publications: false
 ---
 
 <p>PI: Y. Arao, Waseda University</p>
