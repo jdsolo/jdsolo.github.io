@@ -20,7 +20,7 @@ Stay tuned for more updates!
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Overview of our KAKENHI C research project.
 </div>
 
 For more information, see: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00244/
