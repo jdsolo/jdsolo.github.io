@@ -23,4 +23,4 @@ Stay tuned for more updates!
     Overview of our KAKENHI C research project.
 </div>
 
-For more information, see: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00244/
+See <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00244/">here</a> for more information about this project/program.
