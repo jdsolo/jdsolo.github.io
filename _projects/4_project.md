@@ -14,7 +14,7 @@ related_publications: false
 The objective of this project is to understand how the surface chemistry of inorganic nanosheets influences the formation of the polymer structure at the interface, and how this ultimately affects thermo-oxidative degradation behavior. Since interfacial debonding is one of the most fundamental failure modes--and thus, loss in performance--in composites, it is essential to improve interfacial interaction. We will apply various diffraction, scattering, and spectroscopic techniques to analyze the polymer/nanosheet interfacial structure and elucidate the thermo-oxidation mechanisms for different cases.
 Stay tuned for more updates!
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Website-KakenhiB(T)1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
