@@ -22,4 +22,4 @@ Stay tuned for more updates!
     Overview of Prof. Arao's KAKENHI B research project.
 </div>
 
-For more information, see: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K01126/
+See <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K01126/">here</a> for more information about this project/program.
