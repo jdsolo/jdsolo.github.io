@@ -2,7 +2,7 @@
 layout: page
 title: KAKENHI Grant-in-Aid for Scientific Research B
 description: Multiscale Analysis of Clay Nanosheet/Polymer Interfacial Interactions and Elucidation of Thermo-oxidative Degradation Mechanisms
-img: assets/img/Website-KakenhiB(T).png
+img: assets/img/Website-KakenhiB(T)1.png
 importance: 3
 category: Co-Principal Investigator
 ---
