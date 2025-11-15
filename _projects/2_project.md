@@ -2,7 +2,7 @@
 layout: page
 title: KAKENHI Grant-in-Aid for Scientific Research C
 description: Mechanisms of Toughening and Durability Enhancement in Sustainable Nanocomposites
-img: assets/img/Website-KakenhiC1.png
+img: assets/img/Website-KakenhiC1(b).png
 importance: 2
 category: Principal Investigator
 giscus_comments: true
