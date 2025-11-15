@@ -2,7 +2,7 @@
 layout: page
 title: KAKENHI Grant-in-Aid for Scientific Research B
 description: Unprecedented Strengthening of Fiber-Reinforced Composites Enabled by Complex Nano-layered Interfaces
-img: assets/img/Website-KakenhiB(A).png
+img: assets/img/Website-KakenhiB(A)1.png
 importance: 3
 category: Co-Principal Investigator
 ---
