@@ -411,9 +411,9 @@ ninja.data = [{
           description: "Unprecedented Strengthening of Fiber-Reinforced Composites Enabled by Complex Nano-layered Interfaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-kakenhi-grant-in-aid-for-scientific-research-b",
+          title: 'KAKENHI Grant-in-Aid for Scientific Research B',
+          description: "Multiscale Analysis of Clay Nanosheet/Polymer Interfacial Interactions and Elucidation of Thermo-oxidative Degradation Mechanisms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
