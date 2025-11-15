@@ -15,7 +15,7 @@ The objective of this project is to develop novel epoxy-based thermally conducti
 Stay tuned for more updates!
 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Website-ASTEP1(b).png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
