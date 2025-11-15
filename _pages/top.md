@@ -1,6 +1,6 @@
 ---
 layout: top
-title: Jonathon Tanks
+title: top
 permalink: /
 subtitle: Who says sustainable materials have to be low-performance, or that high-performance materials can't be sustainable? Let's change that!
 
