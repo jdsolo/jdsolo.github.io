@@ -14,7 +14,7 @@ related_publications: false
 The objective of this project is to develop bio-based composites that can compete with conventional composites, particularly in terms of long-term mechanical integrity. Our approach is to implement a processing technique for dispersing nanofibers into bio-nylon at high loadings and investigate the resulting toughness, which then translates to crack suppression during thermo-oxidative aging under severe service environments.
 Stay tuned for more updates!
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Website-KakenhiC1(b).png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
