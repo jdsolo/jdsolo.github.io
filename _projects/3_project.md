@@ -14,7 +14,7 @@ related_publications: false
 The objective of this project is to establish a design principle for nano-structured interfaces in fiber-reinforced polymer composites. Since interfacial debonding is one of the most fundamental failure modes--and thus, loss in performance--in composites, it is essential to improve interfacial interaction. Our approach involves the use of nanomaterials to build up the fiber surface, without relying on covalent bonding, and improve overall interaction with the surrounding matrix resin.
 Stay tuned for more updates!
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Website-KakenhiB(A)1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
