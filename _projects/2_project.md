@@ -5,7 +5,7 @@ description: Mechanisms of Toughening and Durability Enhancement in Sustainable 
 img: assets/img/Website-KakenhiC1(b).png
 importance: 2
 category: Principal Investigator
-giscus_comments: true
+related_publications: false
 ---
 
 <p>PI: J. Tanks, NIMS</p>
