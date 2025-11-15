@@ -406,9 +406,9 @@ ninja.data = [{
           description: "Mechanisms of Toughening and Durability Enhancement in Sustainable Nanocomposites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-kakenhi-grant-in-aid-for-scientific-research-b",
+          title: 'KAKENHI Grant-in-Aid for Scientific Research B',
+          description: "Unprecedented Strengthening of Fiber-Reinforced Composites Enabled by Complex Nano-layered Interfaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
