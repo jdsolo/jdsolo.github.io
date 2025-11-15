@@ -5,6 +5,7 @@ description: Multiscale Analysis of Clay Nanosheet/Polymer Interfacial Interacti
 img: assets/img/Website-KakenhiB(T)1.png
 importance: 3
 category: Co-Principal Investigator
+related_publications: false
 ---
 
 <p>PI: K. Tamura, NIMS</p>
