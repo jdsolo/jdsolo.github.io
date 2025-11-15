@@ -22,5 +22,4 @@ Stay tuned for more updates!
     Overview of Dr. Tamura's KAKENHI B research project.
 </div>
 
-For more information, see: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K01863/
-
+See <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K01863/">here</a> for more information about this project/program.
