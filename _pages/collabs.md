@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /collabs/
 title: collabs
 description: collaborators
