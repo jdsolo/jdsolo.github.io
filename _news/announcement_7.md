@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Conference] I presented our work on aramid nanofibers at 2025 JEMS Fall Meeting, Tokyo.
+[Conference] I presented our work on aramid nanofibers at the 2025 JEMS Fall Meeting in Tokyo, JP.
