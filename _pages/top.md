@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 15 # leave blank to include all the news in the `_news` folder
+  limit: 4 # leave blank to include all the news in the `_news` folder
 ---
 ## Research Interests
 My research strategy is to combine experiment and theory (at multiple length and time scales) to probe and explain processing-structure-property relationships in <b>polymeric and nanomaterials</b> at the interface of chemistry and physics and to use those findings to <b>develop high-performance and multifunctional materials and end-of-life recycling/reuse technology</b>. As a research scientist at NIMS, I develop polymers and composites for sustainable and multifunctional structures, investigating their degradation behavior and how it relates to recycling and material design. My main research areas with examples of recent activity are summarized below.
