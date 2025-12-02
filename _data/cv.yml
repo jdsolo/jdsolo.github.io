@@ -64,6 +64,25 @@
         - Novel thermally conductive thermoplastic epoxy-based polymers with highly crystalline structure.
         - Hybrid and multi-layered nanocomposites (i.e., organic/inorganic) for improved dielectric or thermal properties.
 
+- title: Intellectual Property
+  type: nested_list
+  contents:
+    - title: JP 2025-107941
+      items:
+        - Resin composition, resin pellet, and its molded parts
+    - title: JP 2024-39420
+      items:
+        - Recycling method for polyamide composite materials
+    - title: JP 2023-199474
+      items:
+        - Thermally conductive epoxy-based thermoplastic resin, its molded parts, and electronic devices using it
+    - title: JP 2023-195565
+      items:
+        - Polyamide compounds containing lignin, and their molded parts
+    - title: JP 2022-147633
+      items:
+        - Polyolefin compounds containing lignin, and their molded parts,
+
 - title: Honors and Awards
   type: time_table
   contents:
