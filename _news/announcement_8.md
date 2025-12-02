@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Conference] I presented our work on polyamide recycling at the 2025 Polymer Materials Forum in Nagoya, JP.
+[Conference] I presented our work on nylon recycling at PolyMatForum-34 in Nagoya, JP.
