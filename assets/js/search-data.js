@@ -402,7 +402,7 @@ ninja.data = [{
           section: "News",},{id: "news-conference-i-presented-our-work-on-nylon-recycling-at-polymatforum-34-in-nagoya-jp",
           title: '[Conference] I presented our work on nylon recycling at PolyMatForum-34 in Nagoya, JP....',
           description: "",
-          section: "News",},{id: "news-conference-my-presentation-on-nylon-recycling-was-selected-for-a-poster-award-at-polymatforum-34-in-nagoya-jp",
+          section: "News",},{id: "news-conference-my-presentation-on-nylon-recycling-was-selected-for-a-poster-award-at-polymatforum-34",
           title: '[Conference] My presentation on nylon recycling was selected for a poster award at...',
           description: "",
           section: "News",},{id: "projects-a-step-stage-i",
