@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Conference] My presentation on nylon recycling was selected for a poster award at PolyMatForum-34.
+[Conference] My presentation on nylon recycling was selected for a poster award at PMF-34.
