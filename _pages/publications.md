@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Visit my GoogleScholar or ResearchGate accounts for a complete list of publications
+description: Visit my GoogleScholar or ResearchGate pages for a complete list of publications
 nav: true
 nav_order: 2
 ---
