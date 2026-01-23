@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-1-13 17:00:00-0400
+date: 2025-1-20 17:00:00-0400
 inline: true
 related_posts: false
 ---
 
-[Funding] My proposal for industry collaboration through the NIMS-DENKA Center of Excellence was accepted.
+[Conference] My presentation on disulfide-intercalated nanosheets was selected for a poster award at ClaySymp-68.
