@@ -3,7 +3,7 @@ layout: page
 title: NIMS-DENKA Center of Excellence for Next-Gen Materials - Collaboration
 description: Creation of High-Performance Functional Hybrid Fibers
 img: assets/img/Website-Denka.png
-importance: 2
+importance: 3
 category: Principal Investigator
 related_publications: false
 ---
