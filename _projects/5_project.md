@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NIMS-DENKA Center of Excellence for Next-Gen Materials - Collaboration
-description: Creation of High-Performance Functional Hybrid Fibers
+description: Functional Materials
 img: assets/img/Website-Denka.png
 importance: 3
 category: Principal Investigator
@@ -10,7 +10,7 @@ related_publications: false
 
 <p>PI: J. Tanks, NIMS</p>
 <p>Period: 2026/4 - 2028/3</p>
-The objective of this project is to develop hybrid fibers with exceptional thermal conductivity, low dielectric properties and robust mechanical properties. This work is in collaboration with Denka and details cannot be disclosed at this time.
+The objective of this project is to develop functional materials that meet the increasingly higher performance requirements of the IT and mobility sectors. This work is in collaboration with Denka and details cannot be disclosed at this time.
 Stay tuned for future updates!
 
 <div class="row justify-content-sm-center">
