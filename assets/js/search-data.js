@@ -431,9 +431,9 @@ ninja.data = [{
           description: "Multiscale Analysis of Clay Nanosheet/Polymer Interfacial Interactions and Elucidation of Thermo-oxidative Degradation Mechanisms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-nims-denka-center-of-excellence-for-next-gen-materials-collaboration",
-          title: 'NIMS-DENKA Center of Excellence for Next-Gen Materials - Collaboration',
-          description: "Functional Materials",
+            },},{id: "projects-industry-collaboration",
+          title: 'Industry Collaboration',
+          description: "Various Companies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
