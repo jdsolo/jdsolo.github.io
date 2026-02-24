@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Funding] My proposal for industry collaboration with Denka Co Ltd was accepted.
+[Funding] My proposal for industry collaboration was accepted.
