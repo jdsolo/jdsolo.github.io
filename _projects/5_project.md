@@ -21,4 +21,4 @@ Details about collaboration with industry cannot be disclosed without consent of
     NIMS-Industry collaboration for advanced materials that meet the needs of a sustainable and technological society.
 </div>
 
-If your company is interested in collaboration, please contact me (mail address at the bottom of main page) and we can discuss opportunities. I look forward to hearing from you!
+If your company is interested in collaboration, please contact me (email address on the home page) and we can discuss opportunities. I look forward to hearing from you!
